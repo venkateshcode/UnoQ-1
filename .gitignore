@@ -1,0 +1,9 @@
+.cache/
+**/build/
+*.elf
+*.hex
+*.bin
+__pycache__/
+*.pyc
+.arduino/
+.DS_Store
