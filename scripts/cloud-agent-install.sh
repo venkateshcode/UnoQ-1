@@ -20,6 +20,7 @@ arduino-cli version
 arduino-cli config init --overwrite >/dev/null
 arduino-cli core update-index
 arduino-cli core install arduino:zephyr
+arduino-cli lib install "Arduino_RouterBridge" "MsgPack" >/dev/null 2>&1 || true
 
 # Smoke-check: compile the starter sketch offline (no board required).
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"

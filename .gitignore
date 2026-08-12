@@ -7,3 +7,4 @@ __pycache__/
 *.pyc
 .arduino/
 .DS_Store
+python/telegram_config.py

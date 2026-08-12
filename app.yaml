@@ -1,5 +1,5 @@
 name: UnoQ-1
-description: Starter Arduino App Lab project for the UNO Q (MCU blink + Python hello).
+description: Telegram prompts forwarded to the UNO Q MCU via RouterBridge.
 ports: []
 bricks: []
-icon: ●
+icon: 📡
