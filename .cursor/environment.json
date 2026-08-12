@@ -1,0 +1,5 @@
+{
+  "name": "UnoQ-1 Arduino App Lab",
+  "user": "ubuntu",
+  "install": "./scripts/cloud-agent-install.sh"
+}
